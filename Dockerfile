@@ -1,1 +1,1 @@
-FROM docker.io/securesystemsengineering/connaisseur:v3.2.0
+FROM docker.io/securesystemsengineering/connaisseur:v3.5.0
